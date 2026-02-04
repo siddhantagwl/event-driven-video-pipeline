@@ -2,6 +2,8 @@
 
 This project implements an **event-driven video processing pipeline** inspired by YouTube’s upload and ingestion flow. It focuses on backend architecture, asynchronous processing, and real-world failure handling rather than UI polish or scale optimizations.
 
+![Demo](demo_yt.gif)
+
 ## High-Level Architecture
 
 1. **User uploads** a raw video to Google Cloud Storage
